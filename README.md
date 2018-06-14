@@ -4,8 +4,12 @@ The following project is based on  UC merced Land Use data set. There are 21 cla
 Classification of land use of satellite images for a small dataset.
 ## Required
 •	Go over any questions from CS231 Convolutional Neural network course.
+
 •	Install Python & PyTorch.  Make sure that the code from the “Warm-up: numpy” and “PyTorch Tensors” from https://github.com/jcjohnson/pytorch-examples works.
+
 •	Make sure to go through what the “Warm-up: numpy” and “PyTorch Tensors”:
 https://pytorch.org/tutorials/beginner/pytorch_with_examples.html#tensors
 
 
+## First trials
+We started with a simpler network which classifies only 4 classes, after traying a few things (Deeper Network, different loss function, etc), we extended network to 8 classifiers.
